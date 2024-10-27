@@ -39,6 +39,11 @@ Explore the work and projects of [Mgbecheta Paschal Chukwudubem](https://www.lin
 - Collaborated with a team of five data scientists and analysts to develop an LLM chatbot capable of answering diabetes-related questions and offering tailored medical advice.
 - Analyzed health records of over 400,000 diabetes patients to identify trends and patterns, resulting in 50% clearer health insights for customers based on their input data.
 - Created PowerBI visualizations to effectively communicate diabetes-related trends and causes, enhancing stakeholder understanding.
+
+ ### Makais Energy Services Limited, Business Development Personnel(NYSC), (Dec 2023 - Present) 
+- Performed market analysis to identify trends and uncover new business opportunities, enabling the development of targeted strategies.
+- Oversaw the management of historical project records using Microsoft Suite, streamlining data entry, extraction, and updates to improve retrieval speed.
+- Coordinated critical, time-sensitive communications with stakeholders and clients, accelerating information flow to support faster decision-making, improving response time by 50%.
   
 ### Paz and Paz Engineering, Junior Data Analyst Intern, (July 2023 – Sep 2023)	
 
