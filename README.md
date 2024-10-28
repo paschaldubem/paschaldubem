@@ -4,7 +4,7 @@
 
 # Paschaldubem
 
-<img align="right" alt="Coding" width="325" src="https://media.licdn.com/dms/image/D5612AQHPo2XcY6F6qQ/article-cover_image-shrink_600_2000/0/1709671543058?e=2147483647&v=beta&t=dI3YRRvNXNRsOr5mXYNrEuuRsKc_uK-x_riS6ELn7Sk">
+<img align="right" alt="Coding" width="320" src="https://media.licdn.com/dms/image/D5612AQHPo2XcY6F6qQ/article-cover_image-shrink_600_2000/0/1709671543058?e=2147483647&v=beta&t=dI3YRRvNXNRsOr5mXYNrEuuRsKc_uK-x_riS6ELn7Sk">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paschaldubem&label=Profile%20views&color=0e75b6&style=flat" alt="paschaldubem" /> </p>
 
