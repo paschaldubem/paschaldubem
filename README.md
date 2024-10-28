@@ -1,6 +1,10 @@
 ![MasterHead](https://github.com/user-attachments/assets/097269a4-d00e-4769-aa0e-fd48669a4105)
 
+
+
 # Paschaldubem
+
+<img align="right" alt="Coding" width="325" src="https://media.licdn.com/dms/image/D5612AQHPo2XcY6F6qQ/article-cover_image-shrink_600_2000/0/1709671543058?e=2147483647&v=beta&t=dI3YRRvNXNRsOr5mXYNrEuuRsKc_uK-x_riS6ELn7Sk">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paschaldubem&label=Profile%20views&color=0e75b6&style=flat" alt="paschaldubem" /> </p>
 
@@ -10,7 +14,10 @@ Welcome to the `Paschal's` Github!
 [![Portfolio](https://img.shields.io/badge/GoogleSites-Portfolio-lightred.svg)](https://sites.google.com/view/paschals-portfolio/home)
 
 
+
 Explore the work and projects of [Mgbecheta Paschal Chukwudubem](https://www.linkedin.com/in/mgbecheta-paschal/) in Data Analytics and Science. This repository highlights my skills, hands-on projects, and professional experience that showcase my capability in the field.
+
+
 ## Table of Contents
 
 - [Skills](#skills)
