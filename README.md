@@ -28,14 +28,14 @@ Explore the work and projects of [Mgbecheta Paschal Chukwudubem](https://www.lin
 
 ## Skills
 
-- Data Wrangling: Excel, SQL
-- Scripting Languages: Python, R
-- Data Visualization: Tableau, PowerBI, Excel, R
-- Databases: MySQL,BigQuery
+- Languages: SQL, Python, R
+- Data Visualization: Tableau, PowerBI, Looker Studio
+- Developer tools: VS Code, MySQL, Jupyter Notebook, R studio, BigQuery, Anaconda
 - Version Control: GitHub
 - Data Warehousing: Google BigQuery
 - Microsoft Suite
 - Google Workspace
+- Google Analytics 4
 
 ## Professional Experience
 
