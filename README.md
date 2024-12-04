@@ -47,7 +47,7 @@ Explore the work and projects of [Mgbecheta Paschal Chukwudubem](https://www.lin
 - Analyzed health records of over 400,000 diabetes patients to identify trends and patterns, resulting in 50% clearer health insights for customers based on their input data.
 - Created PowerBI visualizations to effectively communicate diabetes-related trends and causes, enhancing stakeholder understanding.
 
- ### Makais Energy Services Limited, Business Development Personnel(NYSC), (Dec 2023 - Present) 
+ ### Makais Energy Services Limited, Business Development Personnel(NYSC), (Dec 2023 - Nov 2024) 
 - Performed market analysis to identify trends and uncover new business opportunities, enabling the development of targeted strategies.
 - Oversaw the management of historical project records using Microsoft Suite, streamlining data entry, extraction, and updates to improve retrieval speed.
 - Coordinated critical, time-sensitive communications with stakeholders and clients, accelerating information flow to support faster decision-making, improving response time by 50%.
@@ -75,6 +75,8 @@ Explore the work and projects of [Mgbecheta Paschal Chukwudubem](https://www.lin
 
 [![Google Certified Data Analytics Proffessional](https://img.shields.io/badge/-GCP%20Data%20Analyst-blue)](https://drive.google.com/drive/folders/1av78zL_p5BAUqMNrU-_mMZ15GVSiTWyL)
 [![Foundation Of Data Science](https://img.shields.io/badge/-Foundation%20Data%20Of%20Science-red)](https://drive.google.com/drive/folders/1yi45C0tr-yPyMIK0wfxRsauX8FzPj94J)
+[![Get Started using Google Analytics](https://img.shields.io/badge/-Get%20Started%20using%20GR4-orange)](https://skillshop.credential.net/6b85dfd9-bb38-4bc1-a744-3c2c0b1877d9#acc.7G5gy8Xk)
+
 
 ## Connect with me
 
