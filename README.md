@@ -81,8 +81,8 @@ Explore the work and projects of [Mgbecheta Paschal Chukwudubem](https://www.lin
 ## Connect with me
 
 <p align="left">
-<a href="https://twitter.com/paschaldubem21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="paschaldubem21" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/mgbecheta-paschal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mgbecheta paschal chukwudubem" height="30" width="40" /></a>
+<a href="https://twitter.com/paschaldubem21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="paschaldubem21" height="30" width="40" /></a>
 <a href="https://kaggle.com/mgbechetapaschal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mgbechetapaschal" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@mgbechetapaschal609" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mgbechetapaschal609" height="30" width="40" /></a>
 </p>
