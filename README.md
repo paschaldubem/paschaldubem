@@ -42,7 +42,7 @@ Explore the work and projects of [Mgbecheta Paschal Chukwudubem](https://www.lin
 ### Fundusai, Data Analyst volunteer, (Jan 2024 – Present)
 
 - Utilized project management tools like ClickUp and Trello to organize the team and streamline stakeholder communication, achieving a 70% improvement in information sharing.
-- Led a cross-functional team of four to structure and analyze internal and social media data, uncovering insights that boosted the company’s marketing strategy by 20%.
+- Led a cross-functional team of four analysts using python and PowerBI to structure and analyze and visualize trends in internal and social media data, uncovering insights that boosted the company’s marketing strategy by 20%.
 - Collaborated with a team of five data scientists and analysts to develop an LLM chatbot capable of answering diabetes-related questions and offering tailored medical advice.
 - Analyzed health records of over 400,000 diabetes patients to identify trends and patterns, resulting in 50% clearer health insights for customers based on their input data.
 - Created PowerBI visualizations to effectively communicate diabetes-related trends and causes, enhancing stakeholder understanding.
@@ -76,6 +76,8 @@ Explore the work and projects of [Mgbecheta Paschal Chukwudubem](https://www.lin
 [![Google Certified Data Analytics Proffessional](https://img.shields.io/badge/-GCP%20Data%20Analyst-blue)](https://drive.google.com/drive/folders/1av78zL_p5BAUqMNrU-_mMZ15GVSiTWyL)
 [![Foundation Of Data Science](https://img.shields.io/badge/-Foundation%20Data%20Of%20Science-red)](https://drive.google.com/drive/folders/1yi45C0tr-yPyMIK0wfxRsauX8FzPj94J)
 [![Get Started using Google Analytics](https://img.shields.io/badge/-Get%20Started%20using%20GR4-orange)](https://skillshop.credential.net/6b85dfd9-bb38-4bc1-a744-3c2c0b1877d9#acc.7G5gy8Xk)
+[![Manage GA4 Data and Learn to Read Reports](https://img.shields.io/badge/-Manage%20GA4%20Data%20And%20Learn%20To%20%20Read%20%20Reports-yellow)](https://skillshop.credential.net/dfcf4822-9525-4006-958e-58ece90e3389#acc.XVpI4oYk)
+[![Get Started with Python](https://img.shields.io/badge/-Get%20Started%20with%20Python-blue)](https://drive.google.com/file/d/1XZ_PnTfaV3E8txBebp1tb3TcWLU0i_6O/view?usp=sharing)
 
 
 ## Connect with me
