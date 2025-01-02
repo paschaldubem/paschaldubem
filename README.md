@@ -52,7 +52,7 @@ Explore the work and projects of [Mgbecheta Paschal Chukwudubem](https://www.lin
 - Oversaw the management of historical project records using Microsoft Suite, streamlining data entry, extraction, and updates to improve retrieval speed.
 - Coordinated critical, time-sensitive communications with stakeholders and clients, accelerating information flow to support faster decision-making, improving response time by 50%.
   
-### Paz and Paz Engineering, Junior Data Analyst Intern, (July 2023 – Sep 2023)	
+### Paz and Paz Engineering, Junior Data Analyst, (July 2023 – Sep 2023)	
 
 - Collaborated with the Sales Manager to design and implement a structured relational database for daily sales tracking.
 - Performed regular ETL (Extract, Transform, Load) updates on stock control and inventory databases to ensure accurate, real-time product availability.
