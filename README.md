@@ -75,9 +75,10 @@ Explore the work and projects of [Mgbecheta Paschal Chukwudubem](https://www.lin
 
 [![Google Certified Data Analytics Proffessional](https://img.shields.io/badge/-GCP%20Data%20Analyst-blue)](https://drive.google.com/drive/folders/1av78zL_p5BAUqMNrU-_mMZ15GVSiTWyL)
 [![Foundation Of Data Science](https://img.shields.io/badge/-Foundation%20Data%20Of%20Science-red)](https://drive.google.com/drive/folders/1yi45C0tr-yPyMIK0wfxRsauX8FzPj94J)
-[![Get Started using Google Analytics](https://img.shields.io/badge/-Get%20Started%20using%20GR4-orange)](https://skillshop.credential.net/6b85dfd9-bb38-4bc1-a744-3c2c0b1877d9#acc.7G5gy8Xk)
-[![Manage GA4 Data and Learn to Read Reports](https://img.shields.io/badge/-Manage%20GA4%20Data%20And%20Learn%20To%20%20Read%20%20Reports-yellow)](https://skillshop.credential.net/dfcf4822-9525-4006-958e-58ece90e3389#acc.XVpI4oYk)
 [![Get Started with Python](https://img.shields.io/badge/-Get%20Started%20with%20Python-blue)](https://drive.google.com/file/d/1XZ_PnTfaV3E8txBebp1tb3TcWLU0i_6O/view?usp=sharing)
+[![Google Analytics 4 Certification](https://img.shields.io/badge/-Google%20Analytics%204%20Certification-orange)](https://skillshop.credential.net/fc86ef54-82c8-482d-bc7b-584bff4f532e#acc.eTLo5ZcQ)
+[![Manage GA4 Data and Learn to Read Reports](https://img.shields.io/badge/-Manage%20GA4%20Data%20And%20Learn%20To%20%20Read%20%20Reports-yellow)](https://skillshop.credential.net/dfcf4822-9525-4006-958e-58ece90e3389#acc.XVpI4oYk)
+
 
 
 ## Connect with me
