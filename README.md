@@ -11,7 +11,7 @@
 Welcome to the `Paschal's` Github!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://www.linkedin.com/in/mgbecheta-paschal/)
-[![Portfolio](https://img.shields.io/badge/GoogleSites-Portfolio-lightred.svg)](https://sites.google.com/view/paschals-portfolio/home)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-lightred.svg)](https://paschaldubem.github.io/#)
 
 
 
