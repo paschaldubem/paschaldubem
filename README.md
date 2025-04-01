@@ -73,6 +73,7 @@ Explore the work and projects of [Mgbecheta Paschal Chukwudubem](https://www.lin
 
 ## Certificates
 
+[![Microsoft Certified: Power BI Data Analyst Associate](https://img.shields.io/badge/-Microsoft%20Certified%20PowerBI%20Data%20Analyst%20Associate-yellow)](https://learn.microsoft.com/en-us/users/paschalmgbecheta-6499/credentials/certification/data-analyst-associate?tab=credentials-tab)
 [![Google Certified Data Analytics Proffessional](https://img.shields.io/badge/-GCP%20Data%20Analyst-blue)](https://drive.google.com/drive/folders/1av78zL_p5BAUqMNrU-_mMZ15GVSiTWyL)
 [![Foundation Of Data Science](https://img.shields.io/badge/-Foundation%20Data%20Of%20Science-red)](https://drive.google.com/drive/folders/1yi45C0tr-yPyMIK0wfxRsauX8FzPj94J)
 [![Get Started with Python](https://img.shields.io/badge/-Get%20Started%20with%20Python-blue)](https://drive.google.com/file/d/1XZ_PnTfaV3E8txBebp1tb3TcWLU0i_6O/view?usp=sharing)
