@@ -39,7 +39,7 @@ Explore the work and projects of [Mgbecheta Paschal Chukwudubem](https://www.lin
 
 ## Professional Experience
 
-### Fundusai, Data Analyst volunteer, (Jan 2024 – Present)
+### Fundusai, Data Analyst volunteer, (Jan 2024 – July 2025)
 
 - Utilized project management tools like ClickUp and Trello to organize the team and streamline stakeholder communication, achieving a 70% improvement in information sharing.
 - Led a cross-functional team of four analysts using python and PowerBI to structure and analyze and visualize trends in internal and social media data, uncovering insights that boosted the company’s marketing strategy by 20%.
